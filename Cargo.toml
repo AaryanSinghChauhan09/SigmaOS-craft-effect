@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_effect"
+version = "0.1.0"
+edition = "2021"
+description = "Visual effects and compositing integration for SigmaOS — filters, shaders, and post-processing pipeline"
+
+[lib]
+name = "sigmaos_craft_effect"
+path = "src/lib.rs"

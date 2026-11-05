@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-effect"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Visual effects and compositing integration for SigmaOS — filters, shaders, and post-processing pipeline"
+upstream = []
+
+[contract]
+provides = ["visual-effects", "compositing-chain"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
