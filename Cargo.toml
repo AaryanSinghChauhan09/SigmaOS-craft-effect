@@ -2,7 +2,8 @@
 name = "sigmaos_craft_effect"
 version = "0.1.0"
 edition = "2021"
-description = "Visual effects and compositing integration for SigmaOS — filters, shaders, and post-processing pipeline"
+license = "MIT"
+description = "SigmaOS craft-effect component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_craft_effect"
