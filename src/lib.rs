@@ -4,6 +4,9 @@
 //! Replaces the 104-line CLI placeholder.
 
 use std::collections::BTreeMap;
+/// Effects and filters management module.
+pub mod sigmaeffect;
+
 use std::fmt;
 
 /// Effect type.
